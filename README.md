@@ -59,9 +59,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Buttenbender/Buttenbender/output/snake.svg" alt="Snake animation" />
-
-###
