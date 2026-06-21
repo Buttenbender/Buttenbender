@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is João Büttenbender and I'm a Computer Science major, from Brazil</h2>
+<h2 align="left">Hi!👋 I'm João Büttenbender, welcome to my GitHub!</h2>
 
 ###
 
